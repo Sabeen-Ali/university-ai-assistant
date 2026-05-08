@@ -1,0 +1,12 @@
+Punjab University Courses and Departments
+Punjab University has more than 12 faculties and 70 departments.
+Faculty of Arts includes departments of Urdu, English, History, Philosophy.
+Faculty of Science includes departments of Physics, Chemistry, Mathematics, Botany, Zoology.
+Faculty of Commerce includes BS Commerce and MBA programs.
+Faculty of Information Technology includes BS Computer Science and BS IT programs.
+BS programs are 4 years, 8 semesters, 130 to 136 credit hours.
+MS programs are 2 years, 4 semesters, 30 to 36 credit hours.
+PhD programs are 3 years minimum.
+Course registration is done online through Punjab University student portal.
+Maximum 6 courses per semester are allowed for regular students.
+Students must maintain minimum CGPA of 2.0 to continue enrollment.
